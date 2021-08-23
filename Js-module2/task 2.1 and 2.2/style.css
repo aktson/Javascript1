@@ -56,7 +56,7 @@ button {
 .hidden {
   display: none;
 }
-button:hover {
+button:hover  {
   background-color: teal;
   transition: 1s linear;
 }

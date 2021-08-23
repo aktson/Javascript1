@@ -92,15 +92,3 @@ button.addEventListener("click", function() {
 //     subMenu.classList.add("hidden");
 // })
 
-const product = {
-    name: "Chicken Lips",
-    price: 35,
-    expired: false,
-    getExpired: function () {
-        console.log(this.expired);
-    }
-}
-
-
-
-product.getExpired();
